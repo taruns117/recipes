@@ -5,6 +5,7 @@ Ingredients:
  - 2 tablespoons chili powder
  - 1 teaspoon ground oregano
  - 1 teaspoon salt
+ - 1 teaspoon jwala mirchi
  - 1/4 teaspoon cayenne pepper
  - 1/4 cup corn flour
  - One 15-ounce can kidney beans, drained and rinsed
@@ -14,7 +15,7 @@ Ingredients:
 Directions:
  1. Brown the ground beef in a large bot and drain off the excess fat.
 <<<<<<< HEAD
- 2. Add the tomato sauce, chili powder, cumin, oregano, salt, Maggy Masala and cayenne.
+ 2. Add the tomato sauce, chili powder, cumin, oregano, salt, Maggy Masala and cayenne ,jwala mirchi.
 ||||||| merged common ancestors
  2. Add the tomato sauce, chili powder, cumin, oregano, salt, and cayenne.
 =======
